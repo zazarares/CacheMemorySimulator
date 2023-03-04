@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1673859203 source:d:\ssc\cache++\main.cpp
+	<iostream>
+	"Cache.h"
+
+1670150060 d:\ssc\cache++\cache.cpp
+	<stack>
+	<queue>
+	"Cache.h"
+
+1673801284 d:\ssc\cache++\cache.h
+	<stdlib.h>
+
+1673857763 source:d:\ssc\cache++\cache.cpp
+	<stdlib.h>
+	<stdio.h>
+	<stack>
+	<queue>
+	"Cache.h"
+
